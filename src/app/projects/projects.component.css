@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    justify-content: center;
+    padding: 10%;
+    padding-top: 0;
+    
+}
+
+img{
+    max-width:100%;
+    padding: 1em;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.col-md-8{
+    font-size: medium;
+}
+
+.text_container{
+    text-align: justify;
+    padding-top: 15px;
+
+}
+
+.image_container{
+    padding-top: 15px;
+}
+
+.projects_container{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    padding: 10px;
+}
+.heading{
+    font-size: large;
+    text-align: center;
+    padding: 15px;
+    float: center;
+}
