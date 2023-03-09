@@ -2,6 +2,7 @@
 @media (max-width: 767px) {
     .for_big_screen {
       display: none;
+      
     }
 }
 
@@ -17,6 +18,11 @@ body{
     overflow-x :hidden; 
     }  
  
+.for_big_screen{
+    padding: 15px;
+}
+
+  
 .responsive_photo_large_screen{
     padding: 25px;
     width: 100%;
